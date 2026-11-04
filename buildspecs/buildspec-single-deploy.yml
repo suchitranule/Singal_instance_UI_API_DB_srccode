@@ -9,8 +9,8 @@ env:
   shell: bash
   variables:
     APP_NAME: "fde-task-app"
-    ARTIFACT_BUCKET: "fde-artifacts"
-    AWS_REGION: "ap-south-2"
+    ARTIFACT_BUCKET: "fde-artifacts-552081947895-ap-south-1-an"
+    AWS_REGION: "ap-south-1"
     RELEASE: "latest"
 
 phases:
